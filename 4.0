@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-python in /Users/sapereira/anaconda3/lib/python3.6/site-packages (3.2.0.6)
+Requirement already satisfied: numpy>=1.11.3 in /Users/sapereira/anaconda3/lib/python3.6/site-packages (from opencv-python) (1.15.2)
